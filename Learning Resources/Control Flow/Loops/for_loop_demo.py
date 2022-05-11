@@ -13,7 +13,7 @@ for fruit in fruits:
 print('-------------------------------')
 
 #example 2
-#print out words that are 3 or less characters
+#print out words that are 3 or less characters and add to a list
 quote = "Life doesn't get any better, you do."
 small_words = []
 for word in quote.split():
